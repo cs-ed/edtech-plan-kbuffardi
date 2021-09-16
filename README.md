@@ -23,6 +23,10 @@ Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
+1. Blackboard as a learning management system
+2. GitHub for ePortfolios
+3. Atom for students' IDEs
+
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
@@ -36,7 +40,7 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
+How will the **technology** help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
