@@ -7,7 +7,11 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Describe your course including the name, description, and grade level
+**AP Computer Science**
+
+This course introduces the concepts and tools of computer science. Students will design, write, and test computer programs using the Java programming language to solve problems and tasks. The course prepares students to take the *AP Computer Science A* exam.
+
+AP Computer Science is available to 10th-12th grade students as an elective.
 
 ### Situation
 
